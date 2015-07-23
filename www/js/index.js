@@ -45,7 +45,7 @@ var app = {
         receivedElement.setAttribute('style', 'display:block;');
 
         console.log('Received Event: ' + id);
-        window.open('http://apache.org', '_blank', 'hidden=yes');
+        window.open('http://www.kidzout.com', '_system');
     }
 };
 
